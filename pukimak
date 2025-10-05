@@ -3791,35 +3791,35 @@ HBO GROUP| UTAMA
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="FILM", HBO
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="HBO", HBO (OKT)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="FILM", HBO HITS
+#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="HBO", HBO HITS (OKT)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="FILM", HBO SIGNATURE HD
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="HBO", HBO SIGNATURE HD (OKT)
 https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="FILM", HBO FAMILY
+#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="HBO", HBO FAMILY (OKT)
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
-#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="FILM", CINEMAX
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="HBO", CINEMAX (OKT)
 https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 ==========
@@ -4191,26 +4191,42 @@ FILM
 #EXTINF:-1 group-logo="https://i.imgur.com/kSNGK5D.jpeg",FILM
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-HBO NEW 13/9/2025
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg",Cinemax Indo (TSP)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302227.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF: -1 tvg-id="hbohd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg" group-title="FILM", HBO (OKT)
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg",HBO Signature Indo (TSP)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/302251.ts
- 
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/xOVZ5cz.jpeg",HBO Indo (TSP)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501248.ts
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/U4lscew.jpeg",HBO Family Indo (TSP)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501249.ts
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg",HBO HITS Indo (TSP)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501250.ts
-#EXTINF:-1 group-title="FILM" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg",IHBO Signature Indo (TSP)
-http://filex.me:8080//live/mDuCWgujGa/tNR7EpB4bP/501251.ts
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-NEW | 4/8/2025
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF: -1 tvg-id="hbohitshd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/V9WrhPQ.jpeg" group-title="FILM", HBO HITS (OKT)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF: -1 tvg-id="hbosignaturehd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/aTqOJyJ.jpeg" group-title="FILM", HBO SIGNATURE HD (OKT)
+https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF: -1 tvg-id="hbofamilyhd.macan" tvg-chno="" tvg-logo="https://i.imgur.com/U4lscew.jpeg" group-title="FILM", HBO FAMILY (OKT)
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew1.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.devhik.workers.dev/license_cenc
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#EXTINF: -1 tvg-id="cinemax.macan" tvg-chno="" tvg-logo="https://i.imgur.com/5sJrz8R.jpeg" group-title="FILM", CINEMAX (OKT)
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+===============================================================================================================
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -4285,45 +4301,6 @@ NEW 4/5/2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-
-=============HBO NON SUB=========
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nPcEGNM.jpeg" group-title="FILM",HBO HD NON SUB
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lUnNmZz.jpeg" group-title="FILM",HBO FAMILY NON SUB
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nxcpfaj.jpeg" group-title="FILM",CINEMAX NON SUB
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RFg7HSv.jpeg" group-title="FILM",HBO SIGNATURE NON SUB
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B0vkFlm.jpeg" group-title="FILM",HBO HITS NON SUB
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
-
 
 ====EDT 2 [17/11/2024]
 
@@ -4588,288 +4565,288 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
 #EXTINF:-1 group-logo="https://i.imgur.com/livnmIp.jpeg",DUNIA | JEPANG NON SUB
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G
 https://mt01.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E
 https://mt01.utako.moe/NHK_E/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV
 https://mt01.utako.moe/Nippon_TV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS
 https://mt01.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV
 https://mt01.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi
 https://mt01.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo
 https://mt01.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX1
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tokyo_mx_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX1
 https://mt01.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX2
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tokyo_mx2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX2
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd01
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd02
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd03
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd04
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd05
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd06
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd07
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX1 HD (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tokyo_mx_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX1 HD (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=hdgd08
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_g_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd01
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_e_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK E (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NTV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd05
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi (NSFW) (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi (NSFW) (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd06
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Tokyo (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:-1 group-title="JAPAN" tvg-id="tokyo_mx_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX1 (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tokyo_mx_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TOKYO MX1 (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd08
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="mbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",MBS
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",MBS
 https://mt01.utako.moe/mbs/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="abc" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ABC
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="abc" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ABC
 https://mt01.utako.moe/abc/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Osaka
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Osaka
 https://mt01.utako.moe/tvo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Kansai TV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Kansai TV
 https://mt01.utako.moe/kansaitv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="yomiuri_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ytv
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="yomiuri_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ytv
 https://mt01.utako.moe/ytv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="kbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",KBS
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",KBS
 https://mt01.utako.moe/kbs/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="sun_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",SUN
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sun_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",SUN
 https://mt01.utako.moe/suntv/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_g_osaka" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G Osaka (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_g_osaka" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK G Osaka (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1 group-title="JAPAN" tvg-id="mbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",MBS (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",MBS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx01
-#EXTINF:-1 group-title="JAPAN" tvg-id="abc" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ABC (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="abc" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ABC (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx02
-#EXTINF:-1 group-title="JAPAN" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Kansai TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kansai_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Kansai TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx03
-#EXTINF:-1 group-title="JAPAN" tvg-id="yomiuri_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ytv (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="yomiuri_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",ytv (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx04
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Osaka (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_osaka" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Osaka (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx05
-#EXTINF:-1 group-title="JAPAN" tvg-id="sun_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",SUN (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sun_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",SUN (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gx07
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_bs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS
 https://mt01.utako.moe/NHK_BS/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS NTV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS NTV
 https://mt01.utako.moe/bsntv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Asahi
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Asahi
 https://mt01.utako.moe/bsasahi/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TBS
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TBS
 https://mt01.utako.moe/bstbs/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TV Tokyo
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TV Tokyo
 https://mt01.utako.moe/bstvtokyo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_fuji" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Fuji
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_fuji" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Fuji
 https://mt01.utako.moe/bsfuji/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs11" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS11
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs11" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS11
 https://mt01.utako.moe/BS11/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bsp_4k" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS4K
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_bsp_4k" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS4K
 https://mt01.utako.moe/bsp4k/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_prime" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Prime
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowow_prime" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Prime
 https://mt01.utako.moe/wprime/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_cinema" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Cinema
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowow_cinema" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Cinema
 https://mt01.utako.moe/wcinema/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_live" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Live
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowow_live" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Live
 https://mt01.utako.moe/wlive/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs10_star_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS 10 Star Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs10_star_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS 10 Star Channel
 https://mt01.utako.moe/bs10_star/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="js1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 1
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 1
 https://mt01.utako.moe/js1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="js2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 2
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 2
 https://mt01.utako.moe/js2/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="js3" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 3
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js3" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 3
 https://mt01.utako.moe/js3/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="js4" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 4
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js4" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 4
 https://mt01.utako.moe/js4/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="green_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Green Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="green_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Green Channel
 https://mt01.utako.moe/green/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="animax" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Animax
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="animax" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Animax
 https://ca01.utako.moe/Animax/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Nihon Eiga Senmon
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Nihon Eiga Senmon
 https://ca01.utako.moe/nihoneiga/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="sky_a" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Sky A
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sky_a" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Sky A
 https://ca01.utako.moe/skya/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_bs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs11
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS NTV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_ntv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS NTV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs02
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Asahi (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_asahi" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Asahi (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs03
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TBS (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_tbs" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TBS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs04
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TV Tokyo (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_tv_tokyo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS TV Tokyo (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs05
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_fuji" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Fuji (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs_fuji" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS Fuji (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs06
-#EXTINF:-1 group-title="JAPAN" tvg-id="nhk_bsp_4k" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS4K (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nhk_bsp_4k" tvg-logo="https://i.imgur.com/livnmIp.jpeg",NHK BS4K (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs01
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_prime" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Prime (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowow_prime" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Prime (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs12
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_cinema" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Cinema (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowow_cinema" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Cinema (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs07
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_live" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Live (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="wowow_live" tvg-logo="https://i.imgur.com/livnmIp.jpeg",WOWOW Live (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs20
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs10_star_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS 10 Star Channel (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bs10_star_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",BS 10 Star Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs08
-#EXTINF:-1 group-title="JAPAN" tvg-id="js1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 1 (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 1 (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs18
-#EXTINF:-1 group-title="JAPAN" tvg-id="js2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 2 (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 2 (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs19
-#EXTINF:-1 group-title="JAPAN" tvg-id="js3" tvg-logo="https://i.imgur.com/livnmIp.jpeg,JSport 3 (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js3" tvg-logo="https://i.imgur.com/livnmIp.jpeg,JSport 3 (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs21
-#EXTINF:-1 group-title="JAPAN" tvg-id="js4" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 4 (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="js4" tvg-logo="https://i.imgur.com/livnmIp.jpeg",JSport 4 (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs22
-#EXTINF:-1 group-title="JAPAN" tvg-id="green_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Green Channel (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="green_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Green Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs14
-#EXTINF:-1 group-title="JAPAN" tvg-id="animax" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Animax (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="animax" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Animax (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs15
-#EXTINF:-1 group-title="JAPAN" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Nihon Eiga Senmon (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="nihon_eiga" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Nihon Eiga Senmon (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs23
-#EXTINF:-1 group-title="JAPAN" tvg-id="sky_a" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Sky A (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sky_a" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Sky A (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="JAPAN" tvg-id="fishing_vision" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Fishing Vision (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fishing_vision" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Fishing Vision (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs25
-#EXTINF:-1 group-title="JAPAN" tvg-id="disney_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Disney Channel (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="disney_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Disney Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs24 
-#EXTINF:-1 group-title="JAPAN" tvg-id="jcom_bs" tvg-logo="https://i.imgur.com/livnmIp.jpeg", JCOM BS (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="jcom_bs" tvg-logo="https://i.imgur.com/livnmIp.jpeg", JCOM BS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=2&id=bs31
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="gaora" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Gaora Sports
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="gaora" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Gaora Sports
 https://mt01.utako.moe/gaora/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="at_x" tvg-logo="https://i.imgur.com/livnmIp.jpeg",AT-X
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="at_x" tvg-logo="https://i.imgur.com/livnmIp.jpeg",AT-X
 https://mt01.utako.moe/AT-X/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="space_shower_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Space Shower TV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="space_shower_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Space Shower TV
 https://ca01.utako.moe/spaceshower/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",MTV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mtv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",MTV
 https://ca01.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="mnet" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Mnet
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mnet" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Mnet
 https://ca01.utako.moe/mnet/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="kayo_pops" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Kayo Pops
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kayo_pops" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Kayo Pops
 https://ca01.utako.moe/kayopops/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="disney_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Disney Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="disney_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Disney Channel
 https://ca01.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="cartoon_network" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Cartoon Network Japan
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="cartoon_network" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Cartoon Network DUNIA | JEPANG NON SUB
 https://ca01.utako.moe/cartoon_network/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv_g_tasu" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Nittele G+
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ntv_g_tasu" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Nittele G+
 https://ca01.utako.moe/ntvgplus/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="family_gekijo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Family Gekijyo
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="family_gekijo" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Family Gekijyo
 https://ca01.utako.moe/familygeki/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="mondo_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Mondo TV
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mondo_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Mondo TV
 https://ca01.utako.moe/mondo/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS Channel 1
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tbs_channel_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS Channel 1
 https://ca01.utako.moe/tbsch1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_channel_2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS Channel 2
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tbs_channel_2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TBS Channel 2
 https://ca01.utako.moe/tbsch2/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi Channel 1
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_asahi_channel_1" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi Channel 1
 https://ca01.utako.moe/ex_ch1/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi_channel_2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi Channel 2
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tv_asahi_channel_2" tvg-logo="https://i.imgur.com/livnmIp.jpeg",TV Asahi Channel 2
 https://ca01.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV ONE
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv_one" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV ONE
 https://ca01.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV TWO
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv_two" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV TWO
 https://ca01.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV NEXT
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fuji TV NEXT
 https://ca01.utako.moe/fuji_next/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="neco" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Neco Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="neco" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Neco Channel
 https://ca01.utako.moe/neco/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="dlife" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Dlife
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="dlife" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Dlife
 https://ca01.utako.moe/dlife/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Toei Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Toei Channel
 https://ca01.utako.moe/toei/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="fighting_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fighting TV Samurai
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fighting_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Fighting TV Samurai
 https://ca01.utako.moe/fighting_tv/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="entermei_tele" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Entermei Tele
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="entermei_tele" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Entermei Tele
 https://ca01.utako.moe/entermei_tele/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Sport Live Plus
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sports_live_plus" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Sport Live Plus
 https://ca01.utako.moe/sport_live_plus/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="home_drama" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Home Drama Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="home_drama" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Home Drama Channel
 https://ca01.utako.moe/homedrama/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="channel_ginga" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Channel Ginga
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="channel_ginga" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Channel Ginga
 https://ca01.utako.moe/gingach/index.m3u8
-#EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Tabi Channel
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tabi_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg",Tabi Channel
 https://ca01.utako.moe/tabi/index.m3u8
 
-#EXTINF:-1 group-title="JAPAN" tvg-id="jidaigeki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Jidaigeki Senmon (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="jidaigeki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Jidaigeki Senmon (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs04
-#EXTINF:-1 group-title="JAPAN" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Toei Channel (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="toei_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Toei Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs27
-#EXTINF:-1 group-title="JAPAN" tvg-id="eigeki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Eisei Gekijo (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="eigeki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Eisei Gekijo (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs22
-#EXTINF:-1 group-title="JAPAN" tvg-id="family_geki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Family Gekijyo (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="family_geki" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Family Gekijyo (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs20
-#EXTINF:-1 group-title="JAPAN" tvg-id="movie_plus" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Movie Plus (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="movie_plus" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Movie Plus (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs14
-#EXTINF:-1 group-title="JAPAN" tvg-id="home_drama" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Home Drama Channel (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="home_drama" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Home Drama Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs05
-#EXTINF:-1 group-title="JAPAN" tvg-id="tabi_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Tabi Channel (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tabi_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Tabi Channel (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs12
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Fuji TV Next (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="fuji_tv_next" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Fuji TV Next (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs26
-#EXTINF:-1 group-title="JAPAN" tvg-id="sky_a" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Sky A  (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sky_a" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Sky A  (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="JAPAN" tvg-id="gaora" tvg-logo="https://i.imgur.com/livnmIp.jpeg", GAORA SPORTS (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="gaora" tvg-logo="https://i.imgur.com/livnmIp.jpeg", GAORA SPORTS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs17
-#EXTINF:-1 group-title="JAPAN" tvg-id="golf_network" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Golf Network (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="golf_network" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Golf Network (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs03
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv_plus" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Nittele G+ (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="ntv_plus" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Nittele G+ (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs02
-#EXTINF:-1 group-title="JAPAN" tvg-id="mondo_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Mondo TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mondo_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Mondo TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs21
-#EXTINF:-1 group-title="JAPAN" tvg-id="channel_ginga" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Channel Ginga (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="channel_ginga" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Channel Ginga (Primehome)
 https://proxy.utako.moe/ph.php?&isp=2&id=cs29
-#EXTINF:-1 group-title="JAPAN" tvg-id="space_shower" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Space Shower TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="space_shower" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Space Shower TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs26
-#EXTINF:-1 group-title="JAPAN" tvg-id="music_japan_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Music Japan TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="music_DUNIA | JEPANG NON SUB_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Music DUNIA | JEPANG NON SUB TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs06
-#EXTINF:-1 group-title="JAPAN" tvg-id="kayo_pops" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Kayo Pops (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kayo_pops" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Kayo Pops (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs13
-#EXTINF:-1 group-title="JAPAN" tvg-id="mtv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", MTV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="mtv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", MTV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs18
-#EXTINF:-1 group-title="JAPAN" tvg-id="lala_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", LaLa TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="lala_tv" tvg-logo="https://i.imgur.com/livnmIp.jpeg", LaLa TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs19
-#EXTINF:-1 group-title="JAPAN" tvg-id="sky_stage" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Takarazuka Sky Stage (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="sky_stage" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Takarazuka Sky Stage (Primehome)
 https://proxy.utako.moe/ph.php?&isp=2&id=cs28
-#EXTINF:-1 group-title="JAPAN" tvg-id="kids_station" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Kids Staton TV (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="kids_station" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Kids Staton TV (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs07
-#EXTINF:-1 group-title="JAPAN" tvg-id="cartoon_network" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Cartoon Network (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="cartoon_network" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Cartoon Network (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs25
-#EXTINF:-1 group-title="JAPAN" tvg-id="natgeo" tvg-logo="https://i.imgur.com/livnmIp.jpeg", National Geographic Japan (Primehome) 
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="natgeo" tvg-logo="https://i.imgur.com/livnmIp.jpeg", National Geographic DUNIA | JEPANG NON SUB (Primehome) 
 https://proxy.utako.moe/ph.php?&isp=1&id=cs10
-#EXTINF:-1 group-title="JAPAN" tvg-id="disney_junior" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Disney Junior (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="disney_junior" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Disney Junior (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 group-title="JAPAN" tvg-id="discovery_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Discovery Channel (Primehome)  
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="discovery_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Discovery Channel (Primehome)  
 https://proxy.utako.moe/ph.php?&isp=1&id=cs08
-#EXTINF:-1 group-title="JAPAN" tvg-id="animal_planet" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Animal Planet (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="animal_planet" tvg-logo="https://i.imgur.com/livnmIp.jpeg", Animal Planet (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs24
-#EXTINF:-1 group-title="JAPAN" tvg-id="history_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", History (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="history_channel" tvg-logo="https://i.imgur.com/livnmIp.jpeg", History (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs09
-#EXTINF:-1 group-title="JAPAN" tvg-id="cnn_j" tvg-logo="https://i.imgur.com/livnmIp.jpeg", CNNj (Primehome) 
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="cnn_j" tvg-logo="https://i.imgur.com/livnmIp.jpeg", CNNj (Primehome) 
 https://proxy.utako.moe/ph.php?&isp=1&id=cs16
-#EXTINF:-1 group-title="JAPAN" tvg-id="bbc_news" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BBC News (Primehome)  
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="bbc_news" tvg-logo="https://i.imgur.com/livnmIp.jpeg", BBC News (Primehome)  
 https://proxy.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1 group-title="JAPAN" tvg-id="tbs_news" tvg-logo="https://i.imgur.com/livnmIp.jpeg", TBS News (Primehome)
+#EXTINF:-1 group-title="DUNIA | JEPANG NON SUB" tvg-id="tbs_news" tvg-logo="https://i.imgur.com/livnmIp.jpeg", TBS News (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs1
 ===========================================JEPANG NON SUB | 23/1/2025 =========================================================
 ======================
